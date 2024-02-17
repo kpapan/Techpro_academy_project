@@ -1,1 +1,2 @@
-# Diploma
+# Summary
+--In the context of the bootcamp TechPro academy (Data science stream),we are given a dummy dataset containing sales data of a fictional retail company. The objectives of our work were to preprocess the data, get useful insights from the data by analyzing them, and create visualizations, Apply machine learning algorithms to predict future sales, and Apply clustering methods to identify distinct customer segments. . --
